@@ -1,5 +1,5 @@
 # Software Project
-This repository contains three distinct projects developed as part of the "Software Project" course at Tel Aviv University. Each project delves into various clustering algorithms, with a focus on the K Means and its extensions.
+This repository contains three distinct projects developed as part of Software Project course at Tel Aviv University. Each project delves into various clustering algorithms, with a focus on the K Means and its extensions.
 
 ## Introduction
 Software Project course provided an opportunity to explore and implement advanced algorithms in the realm of data clustering. Through hands-on projects, we delved deep into the intricacies of clustering algorithms, their optimizations, and real-world applications.
